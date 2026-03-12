@@ -1,18 +1,7 @@
-#**Project Title:**
-Least Squares Regression-Example
-
-##**Objective**
 So this is a beginner friendly project that focuses on simple tasks in Linear Regression
-
-#**Data**
-'https://github.com/Explore-AI/Public-Data/blob/master/exports%20ZAR-USD-data.csv?raw=true'
-
-#**Method and Tools**
 The tasks seen in this project include:
 -The mean of the columns are calculated
 -Using the least squares method the slope of the regression line was calculated
 -The function .fit() function was used in fitting the linear model
 -To get the model predictions for the linear regression model the function .predict() was used
 -Residual sum of squares was used to measure the overall error of the fit thus assessing the model accuracy 
-
-Tools like pandas, matplotlib, NumPy are used in the project
