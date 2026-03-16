@@ -1,0 +1,2 @@
+This is the data used
+df= pd.read_csv("https://raw.githubusercontent.com/Explore-AI/Public-Data/master/Data/Python/crop_yield_dataset.csv")
